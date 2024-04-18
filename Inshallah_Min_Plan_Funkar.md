@@ -21,7 +21,7 @@ Hur jag kommer dela upp tiden kommer gå såhär (kan ändras beroende på hur m
 
 16/4, ~1 timme på planering, ~2 timmar på svelte/fortsätta med bilen(förbättre cad designs)
 
-18/4, Fortsätt bygga bil
+18/4, Fortsätt med svelte
 
 23/4, Bygga bil
 
